@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Diggernaut/mimetype"
+	"github.com/diggernaut/mimetype"
 )
 
 func Example_detect() {

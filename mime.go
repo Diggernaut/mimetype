@@ -3,8 +3,8 @@ package mimetype
 import (
 	"mime"
 
-	"github.com/Diggernaut/mimetype/internal/charset"
-	"github.com/Diggernaut/mimetype/internal/magic"
+	"github.com/diggernaut/mimetype/internal/charset"
+	"github.com/diggernaut/mimetype/internal/magic"
 )
 
 // MIME struct holds information about a file format: the string representation

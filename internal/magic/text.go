@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Diggernaut/mimetype/internal/charset"
-	"github.com/Diggernaut/mimetype/internal/json"
+	"github.com/diggernaut/mimetype/internal/charset"
+	"github.com/diggernaut/mimetype/internal/json"
 )
 
 var (
